@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project combines **Data Structures & Algorithms (C++)** with **Machine Learning (Python)** to analyze stock price data, evaluate trading strategies, and predict future prices.
 
@@ -21,7 +21,7 @@ It bridges **core computer science concepts** with **real-world financial applic
 
 ---
 
-## ⚙️ Features
+##  Features
 
 ### 🔹 DSA-Based Analysis (C++)
 - Heap-based price tracking for efficient max/min queries  
@@ -108,7 +108,7 @@ Stock-price-analyzer/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/dhairya2006-del/Stock-price-analyzer.git
+git clone https://github.com/utkarsh942/stock-price.git
 cd Stock-price-analyzer
 pip install -r requirements.txt
 ```
